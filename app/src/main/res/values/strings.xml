@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">FirstApp</string>
+  <string name="button_name">Show Me!</string>
+  <string name="show_text">Hello There</string>
+</resources>
